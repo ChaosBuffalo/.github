@@ -1,0 +1,7 @@
+{
+    "name": "CB Publish Snapshot",
+    "description": "On main branch merge, publishes a snapshot to maven.",
+    "categories": [
+        "Java"
+    ]
+}

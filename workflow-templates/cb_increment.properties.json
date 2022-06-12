@@ -1,0 +1,7 @@
+{
+    "name": "CB Increment Version and Publish",
+    "description": "User initiated action, increments version and publishes to maven.",
+    "categories": [
+        "Java"
+    ]
+}

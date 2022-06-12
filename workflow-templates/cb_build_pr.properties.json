@@ -1,0 +1,7 @@
+{
+    "name": "CB Check-Build PR",
+    "description": "On PR attempt build.",
+    "categories": [
+        "Java"
+    ]
+}
